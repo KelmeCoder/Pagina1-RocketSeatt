@@ -1,4 +1,4 @@
-Projeto 01 - Explorer - desafio 02 <br>
+Projeto 01 - Explorer - desafio 01 <br>
 O Explorer é um programa completo que reúne tudo o que você precisa para desenvolver suas habilidades técnicas e comportamentais, com acompanhamento de uma equipe qualificada da Rocketseat, para alcançar sua primeira vaga no mercado de programação.
 
 
