@@ -1,5 +1,4 @@
 Projeto 01 - Explorer - desafio 01 <br>
-O Explorer é um programa completo que reúne tudo o que você precisa para desenvolver suas habilidades técnicas e comportamentais, com acompanhamento de uma equipe qualificada da Rocketseat, para alcançar sua primeira vaga no mercado de programação.
 
 
 ## 🚀 Tecnologias
@@ -13,9 +12,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-Acesse o projeto finalizado,<a href="https://KelmeCoder.github.io/Pagina1-RocketSeatt" target="blank"> online.</a>
+Acesse o projeto finalizado,<a href="https://Projeto-01-desafio01-RocketSeat" target="blank"> online.</a>
 
                     Feito com ♥ by KelmeCoder
 
