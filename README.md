@@ -13,7 +13,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 
-Acesse o projeto finalizado,<a href="https:///KelmeCoder.io/Projeto-01-desafio01-RocketSeat
+Acesse o projeto finalizado,<a href="https://KelmeCoder.github.io/Projeto-01-desafio01-RocketSeat
 " target="blank"> online.</a>
 
                     Feito com ♥ by KelmeCoder
